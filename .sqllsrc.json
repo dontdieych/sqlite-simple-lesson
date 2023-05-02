@@ -1,0 +1,10 @@
+{
+  "connections": [
+    {
+      "name": "sqlite3-project",
+      "adapter": "sqlite3",
+      "filename": "tools.db",
+      "projectPaths": ["/home/alarm/db-lesson/"]
+    }
+  ]
+}
